@@ -36,7 +36,7 @@ import typescript from './tech/typescript.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
-import java from './tech/java.png';
+import java from './tech/java.jpg';
 import sql from './tech/sql.jpg';
 import whimsical from './tech/whimsical.jpg';
 
